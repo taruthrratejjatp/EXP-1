@@ -80,6 +80,15 @@ b.  KCL:
 
 <img width="1102" height="628" alt="kcl table" src="https://github.com/user-attachments/assets/7a5b0816-5d27-4424-aa18-fa770f315fef" />
 
+output:
+
+KVL:
+
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/efc86e02-b933-4369-b771-27c6f5db5f09" />
+
+KCL:
+
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/35e2412a-9286-44da-bc39-4fb4f564e247" />
 
 RESULT:
 
